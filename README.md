@@ -73,7 +73,7 @@ Para ejecutar la API localmente, usa el siguiente comando:
 uvicorn main:app --reload
 ```
 
-Esto iniciará la aplicación en `http://localhost:8080`.
+Esto iniciará la aplicación en `http://localhost:8000`.
 
 ### Endpoints
 
@@ -185,5 +185,3 @@ Las contribuciones son bienvenidas. Si deseas agregar nuevas características o 
 ## MIT License
 
 Este proyecto está licenciado bajo los términos de la [MIT License](./LICENSE).
-```
-
